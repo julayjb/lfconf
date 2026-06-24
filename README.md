@@ -1,2 +1,2 @@
 # lfconf
-Conferido de Jogos da Lotofácil
+Conferidor de Jogos da Lotofácil
